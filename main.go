@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/zidni722/simple-chat/api"
+	"github.com/zidni722/simple-chat/server"
 	"github.com/zidni722/simple-chat/user"
 	"fmt"
 	"github.com/go-redis/redis/v7"
